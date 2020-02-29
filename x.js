@@ -1,2 +1,2 @@
-console.log("Vamooo campeón, Vamooo campeón!");
+console.log("Vamooo campeón, Vamooo campeón opción 1 !");
 
